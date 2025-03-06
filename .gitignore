@@ -1,0 +1,5 @@
+dist/
+build/
+CharNetOCR.egg-info/
+.env
+__pycache__/
