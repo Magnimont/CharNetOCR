@@ -72,7 +72,7 @@ For the `recognize` function, you can pass the following parameters:
 
 ### 1. Image segmentation 
 
-![Image Segmentation](./assets/working-segmentation.png)
+![Image Segmentation](https://raw.githubusercontent.com/Magnimont/CharNetOCR/refs/heads/main/assets/working-segmentation.PNG?token=GHSAT0AAAAAACT6NHQMI4R6GO2ICXYR4W76Z6J6JZQ)
 
 1. First, all words are segmented in the image through word-level bounding boxes determination using OpenCV. 
 
@@ -87,7 +87,7 @@ For the `recognize` function, you can pass the following parameters:
 
 ### 2. CharNet Ensembling 
 
-![Image Segmentation](./assets/working-ensembling.png)
+![Image Segmentation](https://raw.githubusercontent.com/Magnimont/CharNetOCR/refs/heads/main/assets/working-ensembling.PNG?token=GHSAT0AAAAAACT6NHQNWDKZZZKCWOWJHKA4Z6J6JHQ)
 
 
 1. The cropped image is passed through the ensemble of CharNet models.
