@@ -107,7 +107,7 @@ For the `recognize` function, you can pass the following parameters:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Magnimont/CharNetOCR/blob/main/LICENCE) file for details.
 
 
 ## Credits 
